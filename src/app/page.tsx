@@ -1,3 +1,4 @@
+import { auth } from "@/auth";
 import HomePage from "@/components/layout/homepage";
 
 export default function Home() {
